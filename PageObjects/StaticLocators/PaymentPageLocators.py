@@ -1,0 +1,2 @@
+ExpiryYearLocator = "xpath://input[@name='expiry_year']"
+SuceessfulPaymentToaster = "xpath://div[normalize-space(translate(text(),'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'))='your order has been placed successfully!']"

@@ -1,0 +1,2 @@
+# Buttons
+PlaceOrderButton = "place order"

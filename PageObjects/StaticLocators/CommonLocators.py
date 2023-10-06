@@ -1,0 +1,1 @@
+SubscriptionSectionLocator = "path://h2[text()='Subscription']"

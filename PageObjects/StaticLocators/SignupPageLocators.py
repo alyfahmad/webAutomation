@@ -1,0 +1,1 @@
+AccountCreatedLocator = "xpath://h2/b[text()='Account Created!']"
